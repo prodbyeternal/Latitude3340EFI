@@ -19,3 +19,5 @@ Dell Latitude 3340 - i3-4010U @ 1.7GHz @ 2 Cores, 4 Threads @ Intel HD Graphics 
 - **Bluetooth**: Bluetooth is non-functional and requires further tweaks to enable. 🌀
 
 Note: Supply yourself with your own macOS installer.
+
+![macOS Big Sur](https://github.com/prodbyeternal/Latitude3340EFI/blob/main/macOS%20BS%20screenie.png?raw=true)
