@@ -1,4 +1,4 @@
-# 💻 Dell Latitude 3340 OpenCore EFI for macOS Big Sur & Monterey 🍏
+# 💻 Dell Latitude 3340 OpenCore EFI for macOS Big Sur 🍏
 
 This is my custom **OpenCore EFI** configuration for running **macOS Big Sur** on the **Dell Latitude 3340** laptop.
 
