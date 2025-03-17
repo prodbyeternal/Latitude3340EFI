@@ -16,4 +16,4 @@ Dell Latitude 3340 - i3-4010U @ 1.7GHz @ 2 Cores, 4 Threads @ Intel HD Graphics 
 
 Note: Supply yourself with your own macOS installer.
 
-![macOS Big Sur](https://github.com/prodbyeternal/Latitude3340EFI/blob/ventura/macOS%20VT%20screenie.png?raw=true)
+![macOS Ventura screen shot](https://github.com/prodbyeternal/Latitude3340EFI/blob/ventura/macOS%20VT%20screenie.png?raw=true)
