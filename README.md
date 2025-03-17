@@ -1,8 +1,6 @@
 # 💻 Dell Latitude 3340 OpenCore EFI for macOS Big Sur & Monterey 🍏
 
-This is my custom **OpenCore EFI** configuration for running **macOS Big Sur** and **macOS Monterey** on the **Dell Latitude 3340** laptop.
-The EFI **might** work on newer versions like Ventura, Sonoma or Sequoia, but do be informed that iGPU acceleration won't work.
-If you patch it with OCLP it might work. I have not tested that.
+This is my custom **OpenCore EFI** configuration for running **macOS Big Sur** on the **Dell Latitude 3340** laptop.
 
 EFI Tested on:
 Dell Latitude 3340 - i3-4010U @ 1.7GHz @ 2 Cores, 4 Threads @ Intel HD Graphics 4400.
@@ -17,6 +15,9 @@ Dell Latitude 3340 - i3-4010U @ 1.7GHz @ 2 Cores, 4 Threads @ Intel HD Graphics 
 ## ❌ Non-Functional Features
 - **Ethernet**: Ethernet does not work currently and will require additional drivers or fixes. 🌐🚫
 - **Bluetooth**: Bluetooth is non-functional and requires further tweaks to enable. 🌀
+
+## Discontinued EFI
+This branch of the EFI is discontinued, please look forward to the "ventura" branch and soon to be "sonoma" branch.
 
 Note: Supply yourself with your own macOS installer.
 
